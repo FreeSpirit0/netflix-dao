@@ -31,5 +31,9 @@ DATABASE_URL = "sqlite:///shows.db"
 2. Run using
 ```
 python3 main.py
-```
-  
+```  
+## Project Document
+[Domain Model](../../wiki/Domain%20Model)  
+[UML Class Diagram](../../wiki/UML%20Class%20Diagram)  
+[Package Diagram](../../wiki/Package%20Diagram)  
+[Web Service](../../wiki/Web%20Service)
